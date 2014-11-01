@@ -35,3 +35,17 @@ mysql -u root -p //accediendo como root
 	sudo apt-get install libmysqlclient-dev
 	pip install MySQL-python  #con el entorno virtual activado
 ```
+
+8. En tu settings.
+```
+	DATABASES = {
+	    'default': {
+	        'ENGINE': 'django.db.backends.mysql',
+	        'NAME': 'db_name',
+	        'USER': 'user_name',
+	        'PASSWORD': 'password',
+	        'HOST': 'localhost',
+	        'PORT': '',
+	    }
+	}
+```
