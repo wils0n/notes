@@ -16,3 +16,7 @@ add to .bashrc
 ready for use pip and virtualenv
 
 	mkvirtualenv env
+
+
+###related
+	[Tutorial Django](https://docs.google.com/presentation/d/1cpCbjrA5cv9igtz76xjcyjxMbxnqfrJRu6Xb02LzV98/edit?usp=sharing)
