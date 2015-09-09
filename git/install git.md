@@ -1,5 +1,10 @@
 ##Install git in ubuntu
 	sudo apt-get install git
+
+##Install git in osx
+	brew install git
+
+##Then execute
 	git config --global user.name "aaaa"
 	git config --global user.email "aaaa@gmail.com"
 	ssh-keygen
